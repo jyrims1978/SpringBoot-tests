@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springrest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: p454uej
+Implementation-Vendor-Id: org.foo.bar
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springrest
+Created-By: Maven Integration for Eclipse
+
